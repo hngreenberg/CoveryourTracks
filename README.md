@@ -1,4 +1,4 @@
-# 12-Employee-Tracker-
+# CoveryourTracks (Employee Tracker)
 
 ### Details
 This activity allows the user to easily view and interact with information stored in databases. It consists of a employee tracking database to view employees, their departments, and managers. The user will also be able to update and remove employees as well.
@@ -10,4 +10,18 @@ This activity allows the user to easily view and interact with information store
 3. MySQL
 4. Javascrip
 
-### 
+### Deployment
+
+1. Clone code to local
+2. Run Node server
+3. Use up and down keys to choose options
+
+
+
+<img width="528" alt="employee tracker" src="https://github.com/hngreenberg/CoveryourTracks/assets/119267074/b7315ddf-12a0-4a49-ad58-1d7039a10cc3">
+
+
+### Video Recording 
+
+
+

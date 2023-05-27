@@ -21,7 +21,7 @@ This activity allows the user to easily view and interact with information store
 <img width="528" alt="employee tracker" src="https://github.com/hngreenberg/CoveryourTracks/assets/119267074/b7315ddf-12a0-4a49-ad58-1d7039a10cc3">
 
 
-### Video Recording 
+### [https://drive.google.com/file/d/1woTtOHk6-wRs1iZHqiBdReRH2CQIDtVu/view](View Video Walk-through)
 
 
 
